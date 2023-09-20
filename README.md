@@ -1,2 +1,2 @@
 # ReactProject
-This is the website version with some additional features of my android news app - Around the World that is used to fetch and read news articles from all over the globe.
+React based news application that provides news articles from all over the world. It supports dark mode and allows users to choose their country for personalized news updates.
